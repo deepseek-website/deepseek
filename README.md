@@ -5,7 +5,7 @@
 Deepseek官网为用户提供创新的深度AI搜索引擎，结合最新的AI技术，带来更快速、精准的搜索体验。Deepseek AI利用深度学习技术提升搜索引擎的准确性，帮助用户高效查找信息。Deepseek中文官网专为中文用户设计，提供完美的搜索解决方案，优化查询结果，帮助各类用户轻松获取所需内容。
 
 
-![](https://files.mdnice.com/user/75077/8afcd1f8-bb3b-4311-9f26-916472b80b6a.png)
+![DeepSeek](https://files.mdnice.com/user/75077/8afcd1f8-bb3b-4311-9f26-916472b80b6a.png)
 
 
 ## 更便捷更快速的使用DeepSeek-R1
